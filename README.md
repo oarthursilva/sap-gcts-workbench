@@ -1,2 +1,2 @@
 # sap-gcts
-gCTS
+gCTS Workbench
